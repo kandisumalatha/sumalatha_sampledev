@@ -1,0 +1,28 @@
+given,
+   Here they gave the geometric sequence of the third term is 36
+                     and the geometric sequence of the fifth term is 81
+ we can find the eighth term of the geometric sequence ?
+
+Let us assume a3=36 and a5=81
+ here we can use the formula an=a1*r^n-1
+according to the formula a3= a1*r^(3-1)
+                                        a3=a1*r^2= 36---> this is equation (1)
+                             Next   a5=a1*r^(5-1)
+                                        a5=a1*r^4 = 81---> this is equation (2)
+
+Solving (1) & (2)
+
+r4/r2 = 81/36 divisible by 9
+        = 9/4
+
+r2=9/4 => r=3/2
+
+a1=36/r2
+    =(36/9)*4  here divisible by 9
+    =4*4
+a1=16
+
+a8=16*(3/2)^7
+     =16*(2187/128)
+a8 =2187/8
+Therefore  the eighth term of the geometric sequence is 2187/8.
