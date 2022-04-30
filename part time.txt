@@ -26,3 +26,4 @@ a8=16*(3/2)^7
      =16*(2187/128)
 a8 =2187/8
 Therefore  the eighth term of the geometric sequence is 2187/8.
+the given sum 
